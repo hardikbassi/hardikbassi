@@ -25,6 +25,7 @@ My strength include quickly learning new skills and programming languages, probl
   <li>Cat Vs Dog Machine Learning 
   <li>  Face Detection System  
   <li> Database Table Visualisation
+   <li> FRemover: A system that censors bad words in an audio
  </ol>
  
 <h2>Social Media Links</h2>
