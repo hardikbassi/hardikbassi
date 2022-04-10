@@ -1,4 +1,5 @@
-<h1>Hardik Bassi🚀</h1>
+# Hardik Bassi🚀
+
 ## About
 
 What brought you doing is what you are doing? I was Inspired for programming by the fact that anything we say to a computer can be achieved. Like humans, it doesn’t complain when we tell them to do something. And if we use this power correctly, we can increase productivity and utilize time efficiently.  And programming is the fastest and the most customisable way to communicate to computer. I believe that there is a long journey ahead of me and I have just got started. I aspire to become a programmer and a full stack developer. “I first started with learning python. After my tuitions were finished, I used to go straight into my computer and started programming. I first made a “Personal Assistant” like Alexa that listened to all the commands & answered reasonably. Then, I started making many more program. Then, I felt one language is not sufficient because there are also other languages that will help me achieve a specific goal more efficiently than other.
