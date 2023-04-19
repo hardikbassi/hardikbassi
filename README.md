@@ -29,12 +29,12 @@ My strength include quickly learning new skills and programming languages, probl
   <li>  Face Detection System  
   <li> Database Table Visualisation
    <li> FRemover: A system that censors bad words in an audio
- </ol>
+ </ul>
  
 
 ## My Experience in Industry
 
-I am working with a multinational company as a non-employee in one of their CSR project which is about revolutionizing education for differently abloed people. Also, I have worked with many college students abroad. I am also the current VP-Education of Gurgaon Gavels Club(Affiliated to Toastmasters International) and many personal projects.
+I am working with a multinational company as a non-employee in one of their CSR project which is about revolutionizing education for differently abloed people. Also, I have worked with many college students abroad.
 
 ## Social Media Links
 
